@@ -28,6 +28,7 @@ pin16.value = True
 * M4 Express
 * M0 Express
 * nRF52840 Express
+* Adafruit Feather STM32F405 Express
 
 ## Untested but should work
 * Adafruit Feather M0 Adalogger
